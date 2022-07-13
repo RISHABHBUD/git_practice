@@ -4,9 +4,3 @@ make it very attractive for Rapid Application Development, as well as for use as
 Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages,
 which encourages program modularity and code reuse.
 
-
-rishabh bdu
-asu
-RWS is love
-abhi nandu 
-hare krsna hare raaa
